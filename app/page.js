@@ -27,7 +27,7 @@ with our AI-powered interview prep</p>
                 Watch video
             </a>  
         </div>
-        <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
+        {/* <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <span className="font-semibold text-gray-400 uppercase">FEATURED IN</span>
             <div className="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
                 <a href="#" className="mr-5 mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
@@ -59,7 +59,7 @@ with our AI-powered interview prep</p>
                     </svg>                                                   
                 </a>         
             </div>
-        </div> 
+        </div>  */}
     </div>
 </section>
 {/* <section className="py-8 bg-white z-50 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
